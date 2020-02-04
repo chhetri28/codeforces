@@ -8,7 +8,7 @@ int main()
     int t1=0;
     int t2=d;
     for(int i=0;i<g;i++){
-        if(t1<t2){
+        if(t1<t2)
             t1+=t;
         }
         else{
